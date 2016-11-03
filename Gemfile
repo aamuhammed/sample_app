@@ -37,5 +37,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 ruby '2.2.4'
 
-
+gem 'bootstrap-sass', '3.3.6'
+gem 'bcrypt',         '3.1.11'
 
